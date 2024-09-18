@@ -1,2 +1,3 @@
-The purpose of this project is to determine ways to reduce indoor temperatures & HVAC load of a building located in Barcelona; followed by design, optimization, cost analysis and life cycle assessment of solar PV powered heat pump.
+For the first half of the project, the purpose was to determine ways to reduce indoor temperatures & HVAC load of a building located in Barcelona; followed by design, optimization, cost analysis and life cycle assessment of solar PV powered heat pump.
+In the second, comprehensive CFD simulation will be carried out using Open Foam.
 • Led a five-member team for 3 months and was accountable for developing building energy model and sizing & cost optimization model of energy production plant (solar PV) in MATLAB.
